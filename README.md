@@ -1,16 +1,15 @@
-## Hi there 👋
+#  Pedro Mangutchi  
+** Estudante **
+---
 
-<!--
-**MidSouls/MidSouls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Linguagens de programação
 
-Here are some ideas to get you started:
+<img
+align="left"
+alt="PHP"
+tittle="php"
+style="padding-right:10px;"
+width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MidSouls&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=MidSouls&include_all_commits=true&theme=dark)
