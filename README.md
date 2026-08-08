@@ -1,5 +1,5 @@
 #  Pedro Mangutchi  
-Estudante
+Estudante de DSM e 
 Entusiasta por física teórica 
 ---
 
